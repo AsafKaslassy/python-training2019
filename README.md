@@ -5,8 +5,8 @@ This repo is about the Haim michael course which is includes all training procee
 ### Content
 #### Functions:
 
--[x] https://www.youtube.com/watch?v=C3rairgwEqs (Part 1)
--[ ] https://www.youtube.com/watch?v=tU8rrfqhUU4 (Part 2)
+- [x] https://www.youtube.com/watch?v=C3rairgwEqs (Part 1)
+- [ ] https://www.youtube.com/watch?v=tU8rrfqhUU4 (Part 2)
 
 #### Modules:
 
