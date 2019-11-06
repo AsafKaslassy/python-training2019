@@ -6,6 +6,15 @@ This repo is about the Haim michael course which is includes all training procee
 
 #### Begining
 - [ ] [Functions - Part 1](https://www.youtube.com/watch?v=C3rairgwEqs) 
+    - **def**
+        - def function_name (param1, param2, param3, ...)
+    - Variables scope
+        - scopes list (LEGB Rule):
+            * *"local"* - Defined inside function/class.
+            * *"enclosing"* - Defined inside enclosing functions(Nested function concept)
+            * *"global"* - Defined at the uppermost level
+            * *"built-in"* - Reserved names in Python builtin modules
+            
 - [ ] [Functions - Part 2](https://www.youtube.com/watch?v=tU8rrfqhUU4) 
 - [ ] [Modules](https://www.youtube.com/watch?v=SZeD8iqsRPk)
 
