@@ -1,8 +1,7 @@
 
 class Rectangle:
     def __init__(self, w, h):
-        """
-        This method receives numbers from Rectangle class.
+        """ This method receives numbers from Rectangle class.
 
         Parameters:
             arg1 (int): height: height counter
@@ -22,7 +21,7 @@ class Rectangle:
             arg1 (int): height: height counter
             arg2 (int): width: width counter
 
-        Returns:
+        @return: Returns:
             int: width * height
         """
         return self.width * self.height
