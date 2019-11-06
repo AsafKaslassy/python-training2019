@@ -1,10 +1,11 @@
 def doSomething():
     print("gaga")
 
+
 doSomething.author = "Dima Banny"
 doSomething.version = "1.0.1"
 
 temp = doSomething
 
-# temp()
+temp()
 print(doSomething.version)

@@ -1,13 +1,20 @@
-from class_demo.my_class import *
-from class_demo.classTwo import *
+from class_demo.my_class import MyFirstClass
+from class_demo.classTwo import Rectangle
 
-obA = MyFirstClass()
-obA.setData('abc')
-obA.details()
 
-obB = MyFirstClass()
-obB.setData(123)
-obB.details()
+def objectA():
+    obA = MyFirstClass()
+    obA.setData('abc')
+    obA.details()
+    pass
+
+
+def objectB():
+    obB = MyFirstClass()
+    obB.setData(123)
+    obB.details()
+    pass
+
 
 rectangleA = Rectangle(3, 4)
 rectangleB = Rectangle(5, 6)
