@@ -19,6 +19,5 @@ def showTypes(arraysize):
         count += 1
         pass
 
-
 arraySize = len(typesArray).numerator
 showTypes(arraySize)
