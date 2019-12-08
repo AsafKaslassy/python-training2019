@@ -1,10 +1,10 @@
 # Topics
 
 ### Types
--[ ] [Reading Text from File Program](\archive\collections\types\files\read_from_file.py)
-- Develop a simple program that receives from the user the name of a textual file, reads its content and prints it to the screen. 
-
--[ ]
+- [x] [Simple Reading from File ](/archive/collections/types/files/read_from_file.py)
+- [x] [Simple Writing to File ](/archive/types/files/write_to_file.py)
+- [x] [Simple List Average ](/archive/types/list_avg-demo.py)
+- [x] [Hexadecimal, Octal and Binary Representations](/archive/types/hex-oct-dec_types.py)
 ### Operators
 
 ### Statements
