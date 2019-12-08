@@ -5,6 +5,7 @@
 - [x] [Simple Writing to File ](/archive/types/files/write_to_file.py)
 - [x] [Simple List Average ](/archive/types/list_avg-demo.py)
 - [x] [Hexadecimal, Octal and Binary Representations](/archive/types/hex-oct-dec_types.py)
+- [x] [The input Function](/archive/types/number_output_types-demo.py)
 ### Operators
 
 ### Statements

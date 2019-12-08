@@ -30,4 +30,4 @@
 ```python
 print("the binary representation is %s" % result)
 ```
-issue with this assignment, [number_output_types-demo.py](/archive/number_output_types-demo.py).
+issue with this assignment, [number_output_types-demo.py](/archive/types/number_output_types-demo.py).
