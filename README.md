@@ -1,7 +1,10 @@
 # Topics
 
 ### Types
+-[ ] [Reading Text from File Program](\archive\collections\types\files\read_from_file.py)
+- Develop a simple program that receives from the user the name of a textual file, reads its content and prints it to the screen. 
 
+-[ ]
 ### Operators
 
 ### Statements
