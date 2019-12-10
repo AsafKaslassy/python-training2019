@@ -1,3 +1,5 @@
+# http://lifemichael.com/moodle/mod/assign/view.php?id=13975
+
 number = input("Note: Only numbers allowed.\nPlease enter a number:")
 result = number
 

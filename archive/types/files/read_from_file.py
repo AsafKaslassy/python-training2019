@@ -1,4 +1,4 @@
-f = open("test-file.txt", "r+")
+f = open("*.txt", "r+")
 
 print(f.read())
 f.close()

@@ -1,5 +1,5 @@
 from archive.class_demo.my_class import MyFirstClass
-from archive.class_demo.classTwo import Rectangle
+from archive.class_demo.class_two import Rectangle
 
 
 def objectA():

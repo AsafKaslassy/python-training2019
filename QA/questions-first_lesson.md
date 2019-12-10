@@ -24,10 +24,3 @@
         ```python
             
             ob.test
-
-### Input assignment
-- [The input Function (Difficulty Level 2/5)](http://lifemichael.com/moodle/mod/assign/view.php?id=5155):
-```python
-print("the binary representation is %s" % result)
-```
-issue with this assignment, [number_output_types-demo.py](/archive/types/number_output_types-demo.py).

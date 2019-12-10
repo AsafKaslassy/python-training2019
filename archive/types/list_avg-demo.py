@@ -1,6 +1,6 @@
-import math
+# http://lifemichael.com/moodle/mod/assign/view.php?id=13975
 
-list_of_numbers = (10, 10, 200)
+list_of_numbers = (10, 20)
 index = 0
 average_list = 0
 

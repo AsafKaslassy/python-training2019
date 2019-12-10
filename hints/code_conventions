@@ -1,0 +1,13 @@
+This is a simple explanations with examples of Pythons code conventions.
+
+| | |
+|---|---|
+|**ClassName**|Class name - used by **CamelCase** formatting|
+|**\_\_special__**| Special method - marked with double underscore|
+|||
+
+---
+Additional links
+
+- [Official Python link to **Naming Conventions**](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
+    - [Descriptive: Naming Styles](https://www.python.org/dev/peps/pep-0008/#id36)
